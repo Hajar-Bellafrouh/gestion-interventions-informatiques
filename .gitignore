@@ -1,0 +1,14 @@
+# Éditeurs / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs et fichiers locaux
+*.log
+.env
+config.local.php
+
+# Dépendances éventuelles
+vendor/
+node_modules/
